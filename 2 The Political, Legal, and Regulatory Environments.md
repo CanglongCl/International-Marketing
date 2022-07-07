@@ -69,13 +69,13 @@ The **Political Culture** reflects the importance of the government and legal sy
     - In Great Britain, cars returning from France bring in an average 80 bottles of wine
 - Companies like Amazon, Google, and Apple attempt to limit tax liability by shifting location of income
 
-## Seizure of Assets
+## Seizure`没收` of Assets
 
-- Expropriation-governmental action to dispossess a foreign company or investor
+- Expropriation-governmental`政府没收` action to dispossess`剥夺` a foreign company or investor
   - Compensation should be provided in a “prompt, effective, and adequate manner”
-- Confiscation occurs when no compensation is provided
+- Confiscation`没收` occurs when no compensation is provided
 
-- **Nationalization**-a government takes control of some or all of the enterprises in an entire industry
+- **Nationalization** - a government takes control of some or all of the enterprises in an entire industry
   - Acceptable according to international law if:
     - satisfies public purpose
     - includes “adequate payment”
@@ -90,15 +90,15 @@ The **Political Culture** reflects the importance of the government and legal sy
   - Discriminatory tariff and nontariff barriers
   - Discriminatory laws on patents and trademarks
 
-# International Law
+## International Law
 
 - The rules and principles that nation-states consider binding among themselves
 - Pertains to property, trade, immigration, and other areas
 - Disputes between nations are issues of public international law
-  - World Court or International Court of Justice (I C J);
+  - World Court or International Court of Justice (ICJ);
   - Judicial arm of the United Nations
 
-# International Court of Justice
+## International Court of Justice
 
 Judicial arm of the United Nations founded in 1947
 
@@ -106,24 +106,22 @@ Settles disputes between nations
 
 Offers advice on legal issues submitted by various international agencies
 
-# Common Law versus Civil Law (1 of 2)
+## Common Law versus Civil Law
 
 The Napoleonic Code of 1804 drew on the Roman legal system and is the basis for continental European law today. Code law is also known as civil law.
 
 U.S. law is rooted in English common law.
 
-![](img/2%20The%20Political%2C%20Legal%2C%20and%20Regulatory%20Environments1.png)
-
   - Common Law
-  - Disputes are decided by reliance on the authority of past judicial decisions
-  - Companies are legally incorporated by state authority
-  - Code law is used in only a few areas; the U.S. Uniform Commercial Code fully adopted by 49 states, Louisiana still influenced by French civil law
+    - Disputes are decided by reliance on the authority of past judicial decisions
+    - Companies are legally incorporated by state authority
+    - Code law is used in only a few areas; the U.S. Uniform Commercial Code fully adopted by 49 states, Louisiana still influenced by French civil law
 
 - Civil Law
   - Legal system reflects the structural concepts and principles of the Roman Empire
   - Companies are formed by contract between two or more parties who are fully liable for the actions of the company
 
-# Islamic Law
+## Islamic`伊斯兰教的` Law
 
 - Legal system in many Middle Eastern countries
 - Sharia-a comprehensive code governing Muslim conduct in all areas of life, including business
@@ -132,54 +130,48 @@ U.S. law is rooted in English common law.
     - Based on life, sayings, and practices of Muhammad
     - Identifies forbidden practices “haram”
 
-# Sidestepping Legal Issues
+## Sidestepping Legal Issues
 
 - Get expert legal help
 - Prevent conflicts
-  - Establish jurisdiction
+  - Establish jurisdiction`管辖`
   - Protect intellectual property
   - Protect licenses and trade secrets
-  - Avoid bribery
+  - Avoid bribery`贿赂`
   - Advertising & promotion
 
-# Jurisdiction
+## Jurisdiction
 
-Refers to a court’s authority to rule on particular types of issues arising outside of a nation’s borders or to exercise power over individuals or entities from different countries.
+- Refers to a court’s authority to rule on particular types of issues arising outside of a nation’s borders or to exercise power over individuals or entities from different countries.
 
-Employees of foreign companies should understand the extent to which they are subject to the jurisdiction of host-country courts.
+- Employees of foreign companies should understand the extent to which they are subject to the jurisdiction of host-country courts.
 
-Courts have jurisdiction if it can be demonstrated that the company is doing business in the state in which the court sits.
+- Courts have jurisdiction if it can be demonstrated that the company is doing business in the state in which the court sits.
 
-# Intellectual Property (1 of 2)
+
+## Intellectual Property
 
 - Intellectual property must be registered in each country where business is conducted.
   - Patent-gives an inventor exclusive right to make, use, and sell an invention for a specified period of time
   - Trademark-distinctive mark, motto, device, or emblem used to distinguish it from competing products
   - Copyright-establishes ownership of a written, recorded, performed, or filmed creative work
 
-# Infringement of Intellectual Property
+### Infringement of Intellectual Property
 
-Counterfeiting-unauthorized copying and production of a product
+- **Counterfeiting-unauthorized copying** and production of a product
+- Associative Counterfeit/Imitation-product **name differs slightly from a well-known brand**
 
-Associative Counterfeit/Imitation-product name differs slightly from a well-known brand
+- **Piracy-unauthorized** publication or reproduction of copyrighted work
 
-Piracy-unauthorized publication or reproduction of copyrighted work
+### Protecting Intellectual Property
 
-# Intellectual Property (2 of 2)
+- In the U.S., registration is with the **Federal Patent and Trademark Office**
 
-“You may not realize it, but by using the name **Kleenex**® as a generic term for tissue, you risk erasing our coveted brand name that we’ve worked so hard for all these years. **Kleenex**® is a registered trademark and should always be followed by the ® and the words ‘Brand Tissue.’ Just Pretend it’s in permanent marker.”
+- In Europe, applicants use the **European Patent Office **or register country-by-country
 
-![](img/2%20The%20Political%2C%20Legal%2C%20and%20Regulatory%20Environments2.png)
+- Soon the **Community Patent Convention** will cover 27 countries
 
-# Protecting Intellectual Property (1 of 3)
-
-In the U.S., registration is with the **Federal Patent and Trademark Office**
-
-In Europe, applicants use the **European Patent Office **or register country-by-country
-
-Soon the **Community Patent Convention** will cover 27 countries
-
-**Madrid Protocol **trademark owners are protected in 74 countries with 1 application
+- **Madrid Protocol **trademark owners are protected in 74 countries with 1 application
 
 - World Intellectual Property Organization
   - Governed by the Madrid Agreement and the Madrid Protocol, allows trademark owners to seek protection in 74 countries with one application and fee.
@@ -194,7 +186,7 @@ Soon the **Community Patent Convention** will cover 27 countries
 - European Patent Convention
   - the E U and Switzerland
 
-# Companies Receiving the Most International Patents, 2015
+### Companies Receiving the Most International Patents, 2015
 
 **Table 5 - 2 **Companies Filing the Most International Patent Applications under P C T, 2015
 
@@ -211,7 +203,7 @@ Soon the **Community Patent Convention** will cover 27 countries
 | Koninklijke Philips | Netherlands | 1,378 |
 | Hewlett-Packard Development | United States | 1,310 |
 
-# Other Patent Issues
+### Other Patent Issues
 
 - U.S. patents are issued for 20 years in accordance with G A T T
 - U.S. laws are **harmonized** with those in the E U and Japan
@@ -223,14 +215,14 @@ Soon the **Community Patent Convention** will cover 27 countries
   - American Innovation Act (2011) protects companies against trolls who file multiple patents to get large tech companies to pay
   - Patent Trial and Appeal Board resolves patent infringement
 
-# Antitrust
+## Antitrust`反托拉斯`
 
 - Laws are designed to combat restrictive business practices and to encourage competition
-  - Enforced by F T C in the U.S., Fair Trade Commission in Japan, European Commission in the E U
+  - Enforced by FTC in the U.S., Fair Trade Commission in Japan, European Commission in the EU
   - The Sherman Act of 1890 prohibits certain restrictive business practices including fixing prices, limiting production, allocating markets, or any other scheme designed to limit or avoid competition.
     - Applies to U.S. companies outside U.S. borders and to foreign companies operating in the U.S.
 
-# Licensing and Trade Secrets (1 of 2)
+## Licensing and Trade Secrets
 
 - **Licensing** is a contractual agreement in which a licensor allows a licensee to use patents, trademarks, trade secrets, technology, and other intangible assets in return for royalty payments or other forms of compensation
 - Important considerations
